@@ -1,0 +1,89 @@
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\BassDrum.png
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\DrumSet.png
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\FloorTom.png
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\Guitar.png
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\guitar_icon.png
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\HiHat.png
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\HiHatFixed.png
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\HiHatTop.png
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\RideCymbal.png
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\SnareDrum.png
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\Tom1.png
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\Tom2.png
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Beat It.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Billy Jean.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Bizarre Love Triangle.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Black Dog.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Black Mountain Side.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Blitzkrieg_Bop.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Blue Monday 2.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Blue Monday.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Ceremony.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Close To Me.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Dancing_Queen.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\dont stop believing.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Enter Sandman.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Friday Im In Love.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Helter Skelter.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Higher Ground.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\How Many More Times.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Iron Man.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\I_Wanna_Be_Sedated.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Kashmir.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Lullaby.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Manic Depression.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Moby Dick.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\NothingElseMatters.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Paranoid.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Perfect Kiss.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Poker Face.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Rock And Roll.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\SadButTrue.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Seven Nation Army.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Smoke On The Water.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Stairway To Heaven.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Sunday Bloody Sunday.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Sweet Child O Mine.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\The Lemon Song.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Thriller.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Under Pressure.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\We Will Rock Youwwry.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\With Or Without You.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\World.mid
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\WPFMidiBand.exe.config
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\WPFMidiBand.exe
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\WPFMidiBand.pdb
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Sanford.Collections.dll
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Sanford.Multimedia.dll
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Sanford.Multimedia.Midi.WPF.dll
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Sanford.Multimedia.Timers.dll
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Sanford.Threading.dll
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.csprojAssemblyReference.cache
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\BassControl.baml
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\DrumControl.baml
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\GuitarControl.baml
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\PianoKeyWPF.baml
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\UserControl1.baml
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\BassControl.g.cs
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\DrumControl.g.cs
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\GuitarControl.g.cs
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\PianoControlWPF.g.cs
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\PianoKeyWPF.g.cs
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\UserControl1.g.cs
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\MainWindow.g.cs
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Window1.g.cs
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\App.g.cs
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand_Content.g.cs
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand_MarkupCompile.cache
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand_MarkupCompile.lref
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\PianoControlWPF.baml
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\MainWindow.baml
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Window1.baml
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.g.resources
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.Properties.Resources.resources
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.csproj.GenerateResource.cache
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.csproj.CoreCompileInputs.cache
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.csproj.CopyComplete
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.exe
+C:\Users\john\source\repos\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.pdb
